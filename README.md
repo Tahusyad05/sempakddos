@@ -89,7 +89,9 @@ python3 Python-Script.py
 
 - MacOS X 10.10.5 Onwards (OS X Yosmite)
 
-> This should run on all enviorments. Even on Oldest OS's provided the above dependancies are completed
+- Linux Mint 21.2
+
+> This should run on all environments. Even on Oldest OS's if provided the above dependancies are completed
 
 
 ## License
